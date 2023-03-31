@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verylargefanofcats
 - 👀 I’m interested in nerd stuff
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Jquery
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me: go to "yongwen102@gmail.com"
 
